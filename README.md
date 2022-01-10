@@ -9,4 +9,3 @@ GBF Raid Finder lets you find players requesting raids from across the world, on
 Having trouble with the App? Feel free to contact me for any feedback, bug reports or suggestions. Those would be much appreciated!
 
 - Email: gerar.riera@gmail.com
-- Phone: +34 618 64 28 47
